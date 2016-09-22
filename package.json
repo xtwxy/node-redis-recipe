@@ -1,0 +1,26 @@
+{
+  "name": "node-redis-recipe",
+  "version": "0.0.0",
+  "description": "node-redis-recipe",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xtwxy/node-redis-recipe.git"
+  },
+  "keywords": [
+    "sc"
+  ],
+  "author": "xtwxy@hotmail.com",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/xtwxy/node-redis-recipe/issues"
+  },
+  "dependencies": {
+    "express": "~4.14.0",
+    "mysql": "~2.11.1",
+    "redis": "~0.4.2"
+  }
+}
